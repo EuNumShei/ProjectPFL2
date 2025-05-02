@@ -3,6 +3,8 @@
 - Group: T14_BYTE_7
   - up202208957 - Rafael Cunha (50%)
   - up202204875 - Guilherme Teixeira (50%)
+ 
+Project Grade: 14.4
 
 ### Detailed Group Member Participation
 - Both group members contributed actively to all phases of the project. Rafael primarily focused on the logic and development of the AI bots, while Guilherme concentrated on the menu flow and optimizing the game's algorithms. The implementation of game rules was approached using Pair Programming, allowing us to collaborate simultaneously. Additionally, both members engaged in extensive debugging.
